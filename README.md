@@ -12,3 +12,6 @@ This project demonstrates AES-256 and RSA-2048 encryption in Python.
 2. Install dependencies:
    ```bash
    pip install pycryptodome
+## Author
+👤 ** Hemant Chilkuri **  
+🔗 [GitHub Profile](https://github.com/hemantchilkuri)  
