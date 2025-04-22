@@ -13,7 +13,7 @@ This project demonstrates AES-256 and RSA-2048 encryption in Python.
 1️⃣ Install Dependencies
 pip install pycryptodome
 2️⃣ Clone the Repository
-git clone https://github.com/YourUsername/Secure-Encryption.git
+git clone (https://github.com/hemantchilkuri/Secure-Encryption).git
 cd Secure-Encryption
 
 ## Usage 🚀
